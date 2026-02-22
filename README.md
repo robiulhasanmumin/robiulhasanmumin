@@ -1,4 +1,4 @@
-<h1 align="center"> Assalami Alaikum, I'm Robiul Hasan Mumin</h1>
+<h1 align="center"> Assalamu Alaikum, I'm Robiul Hasan Mumin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
