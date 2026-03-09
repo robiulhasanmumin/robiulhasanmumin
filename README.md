@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm "Robiul Hasan Mumin"
 
-### **Front-end Developer | MERN Stack Developer | AI Tool Specialist**
+### **Passionate Full Stack Web Developer (MERN) | Front-end Developer | AI Tool Specialist**
 
 ---
 
