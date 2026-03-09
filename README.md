@@ -1,4 +1,4 @@
-![My Github Banner](professionalCover2.png)
+![My Github Banner](professionalCover.png)
 
 
 # Hi 👋, I'm Robiul Hasan Mumin
