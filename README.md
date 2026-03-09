@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="![Uploading professionalCover.png…]()
-" alt="Mumin Robiul Hasan Banner" width="100%">
-</p>
+![My Github Banner](professionalCover.png)
+
 
 # Hi 👋, I'm Robiul Hasan Mumin
 ### 🔭 I build things with JavaScript, React, and Node.js
