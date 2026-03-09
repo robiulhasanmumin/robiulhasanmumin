@@ -1,6 +1,6 @@
 ![My Github Banner](professionalCover2.png)
 
-# Hi there! 👋 I'm Mumin Robiul Hasan
+# Hi there! 👋 I'm "Robiul Hasan Mumin"
 
 ### **Front-end Developer | MERN Stack Developer | AI Tool Specialist**
 
@@ -58,8 +58,8 @@ I am a passionate **Full Stack Web Developer (MERN)** from Bangladesh. I love bu
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muminrobiulhasan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://facebook.com/robiulhasan.mumin" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
