@@ -38,39 +38,21 @@ I am a passionate **Full Stack Web Developer (MERN)** from Bangladesh. I love bu
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Backend" />
 </p>
 
-### **DEPLOYMENT & HOSTING:**
+#### **DEPLOYMENT & HOSTING:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment" />
 </p>
 
-### **DESIGN & GRAPHICS:**
+#### **DESIGN & GRAPHICS:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
-### **🛠️ TOOLS & TECHNOLOGIES:**
+#### **TOOLS & TECHNOLOGIES:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,notion,postman" alt="Tools" />
 </p>
 
-### **🤖 AI & MODERN DEVELOPMENT TOOLS:**
-<p align="left">
-  <a href="https://aistudio.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="Google AI" title="Google AI Studio" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://v0.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="v0" title="V0.dev" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://bolt.new" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackblitz" width="45" height="45" alt="Bolt" title="Bolt.new / Antigravity" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://cursor.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Cursor" title="Cursor AI" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://chatgpt.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=openai" width="45" height="45" alt="AI Tools" title="ChatGPT / Base44" />
-  </a>
-</p>
 
 ---
 
