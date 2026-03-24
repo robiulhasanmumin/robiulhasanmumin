@@ -38,17 +38,17 @@ I am a passionate **Full Stack Web Developer (MERN)** from Bangladesh. I love bu
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Backend" />
 </p>
 
-#### **DEPLOYMENT & HOSTING:**
+#### **Deployment & Hosting:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment" />
 </p>
 
-#### **DESIGN & GRAPHICS:**
+#### **Design & Graphics:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
-#### **TOOLS & TECHNOLOGIES:**
+#### **Tools & Tecnologies:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,notion,postman" alt="Tools" />
 </p>
