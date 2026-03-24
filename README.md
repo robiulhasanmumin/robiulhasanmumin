@@ -56,22 +56,22 @@ I am a passionate **Full Stack Web Developer (MERN)** from Bangladesh. I love bu
 ### **🤖 AI & MODERN DEVELOPMENT TOOLS:**
 <p align="left">
   <a href="https://aistudio.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-logo.png" width="40" height="40" alt="Google AI Studio" title="Google AI Studio" style="margin-right: 10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="Google AI Studio" title="Google AI Studio" style="margin-right: 10px;"/>
   </a>
   <a href="https://v0.dev" target="_blank">
-    <img src="https://assets.vercel.com/image/upload/v1707324151/v0/v0-logo.png" width="40" height="40" alt="v0" title="v0.dev" style="background: #000; padding: 5px; border-radius: 8px; margin-right: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="v0" title="v0.dev" style="margin-right: 10px;"/>
   </a>
   <a href="https://bolt.new" target="_blank">
-    <img src="https://bolt.new/favicon.svg" width="40" height="40" alt="Bolt" title="Antigravity / Bolt.new" style="background: #111; padding: 5px; border-radius: 8px; margin-right: 10px;"/>
+    <img src="https://bolt.new/favicon.svg" width="45" height="45" alt="Bolt" title="Antigravity / Bolt.new" style="background: #111; padding: 4px; border-radius: 8px; margin-right: 10px;"/>
   </a>
   <a href="https://cursor.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/cursor.svg" width="40" height="40" alt="Cursor" title="Cursor AI" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/cursor.svg" width="45" height="45" alt="Cursor" title="Cursor AI" style="margin-right: 10px;"/>
   </a>
   <a href="https://base44.io/" target="_blank">
-    <img src="https://base44.io/favicon.ico" width="40" height="40" alt="Base44" title="Base44" style="background: #1a1a1a; padding: 5px; border-radius: 8px; margin-right: 10px;"/>
+    <img src="https://base44.io/favicon.ico" width="45" height="45" alt="Base44" title="Base44" style="background: #1a1a1a; padding: 4px; border-radius: 8px; margin-right: 10px;"/>
   </a>
   <a href="https://chatgpt.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=openai" width="40" height="40" alt="ChatGPT" title="ChatGPT" />
+    <img src="https://skillicons.dev/icons?i=openai" width="45" height="45" alt="ChatGPT" title="ChatGPT" />
   </a>
 </p>
 
