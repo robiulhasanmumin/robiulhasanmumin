@@ -38,6 +38,44 @@ I am a passionate **Full Stack Web Developer (MERN)** from Bangladesh. I love bu
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Backend" />
 </p>
 
+### **DEPLOYMENT & HOSTING:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment" />
+</p>
+
+### **DESIGN & GRAPHICS:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
+</p>
+
+### **🛠️ TOOLS & TECHNOLOGIES:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,notion,postman" alt="Tools" />
+</p>
+
+### **🤖 AI & MODERN DEVELOPMENT TOOLS:**
+<p align="left">
+  <a href="https://aistudio.google.com/" target="_blank">
+    <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160d13f795156953a.png" width="48" height="48" alt="Google AI Studio" title="Google AI Studio" style="margin-right: 5px;"/>
+  </a>
+  <a href="https://v0.dev" target="_blank">
+    <img src="https://assets.vercel.com/image/upload/v1707324151/v0/v0-logo.png" width="48" height="48" alt="v0" title="v0.dev" style="background: #000; padding: 4px; border-radius: 10px; margin-right: 5px;"/>
+  </a>
+  <a href="https://bolt.new" target="_blank">
+    <img src="https://bolt.new/favicon.svg" width="48" height="48" alt="Bolt" title="Antigravity / Bolt.new" style="background: #111; padding: 5px; border-radius: 10px; margin-right: 5px;"/>
+  </a>
+  <a href="https://cursor.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor AI" style="margin-right: 5px;"/>
+  </a>
+  <a href="https://base44.io/" target="_blank">
+    <img src="https://base44.io/favicon.ico" width="48" height="48" alt="Base44" title="Base44" style="background: #1a1a1a; padding: 5px; border-radius: 10px; margin-right: 5px;"/>
+  </a>
+  <a href="https://lovable.dev" target="_blank">
+    <img src="https://lovable.dev/favicon.ico" width="48" height="48" alt="Lovable" title="Lovable.dev" style="background: #fff; border-radius: 10px; margin-right: 5px;"/>
+  </a>
+  <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="ChatGPT" title="ChatGPT/Claude" />
+</p>
+
 ---
 
 ### **📊 GitHub Stats**
