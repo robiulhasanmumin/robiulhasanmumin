@@ -20,7 +20,7 @@ I am a passionate **Full Stack Web Developer (MERN)** from Bangladesh. I love bu
 
 #### **Languages:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Languages" />
 </p>
 
 #### **CSS Frameworks & Libraries:**
